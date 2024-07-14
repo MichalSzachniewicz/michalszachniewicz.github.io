@@ -1,16 +1,35 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
 // Toggle through light, dark, and system theme settings.
+// let toggleThemeSetting = () => {
+//   let themeSetting = determineThemeSetting();
+//   if (themeSetting == "system") {
+//     setThemeSetting("light");
+//   } else if (themeSetting == "light") {
+//     setThemeSetting("dark");
+//   } else {
+//     setThemeSetting("system");
+//   }
+// };
+
+// Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
-    setThemeSetting("light");
-  } else if (themeSetting == "light") {
+  if (themeSetting == "light") {
     setThemeSetting("dark");
   } else {
-    setThemeSetting("system");
+    setThemeSetting("light");
   }
 };
+
+// function toggleThemeSetting() {
+//   let themeSetting = determineThemeSetting();
+//   if (themeSetting === 'light') {
+//     setThemeSetting('dark');
+//   } else {
+//     setThemeSetting('light');
+//   }
+// };
 
 // Change the theme setting and apply the theme.
 let setThemeSetting = (themeSetting) => {
@@ -205,12 +224,22 @@ let transTheme = () => {
   }, 500);
 };
 
+// // Determine the expected state of the theme toggle, which can be "dark", "light", or
+// // "system". Default is "system".
+// let determineThemeSetting = () => {
+//   let themeSetting = localStorage.getItem("theme");
+//   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
+//     themeSetting = "system";
+//   }
+//   return themeSetting;
+// };
+
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// "system". Default is "light".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+  if (themeSetting != "dark" && themeSetting != "light") {
+    themeSetting = "light";
   }
   return themeSetting;
 };
