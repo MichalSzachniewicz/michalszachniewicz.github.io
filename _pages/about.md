@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_m_sz.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <a href="mailto:michal.szachniewicz@maths.ox.ac.uk">michal.szachniewicz@maths.ox.ac.uk</a> </p>
