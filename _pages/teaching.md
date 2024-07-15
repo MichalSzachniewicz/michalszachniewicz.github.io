@@ -14,12 +14,14 @@ nav_order: 6
 - [Kiran Kedlaya's conference page](https://mathweb.ucsd.edu/~kedlaya/cgi-bin/confs.cgi)
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
-## Future
+## Planned conferences
 
--  Conference: Non-Archimedean and Tropical Geometry, Germany, Regensburg (July 2024)
+- Students' and Young Researchers' Conference: Non-Archimedean and Tropical Geometry, Germany, Regensburg (July 2024)
 
-## Past
+## Past confernces
 - Flows and Variational Methods in Riemannian and Complex Geometry: Classical and Modern Methods, Canada, Montreal (June 2024)
+- Categorical aspects  of differential Galois theory meeting, England, London (May 2024)
+- South and East of England Model Theory Network SEEMOD meeting, England, Norwich (April 2024)
 - Model theory of valued fields and applications, France, Lille (February 2024)
 - Research school Hodge theory and o-minimality, France, Luminy, CIRM (January 2024)
 - Global invariants of arithmetic varieties, France, Luminy, CIRM (October 2023)
@@ -27,14 +29,14 @@ nav_order: 6
 - Masterclass: Arakelov geometry on Shimura varieties, Denmark, Copenhagen (August 2023)
 - Model theory of valued fields, France, Luminy, CIRM (June 2023)
 - Spring School on non-Archimedean geometry and eigenvarieties, Germany, Heidelberg (March 2023)
-- British Postgraduate Model Theory Conference, United Kingdom, Leeds (January 2023)
+- British Postgraduate Model Theory Conference, England, Leeds (January 2023)
 - Model Theory Conference in celebration of Ludomir Newelski's 60th birthday, Poland, Będlewo, IMPAN conference center (December 2022)
 - AGATES Workshop, Deformation Theory, Poland, Warsaw (December 2022)
 - Condensed mathematics and the liquid tensor experiment, Poland, Będlewo (September 2022)
-- Workshop: Practical and Structural Model Theory, United Kingdom, Leeds (July 2022)
+- Workshop: Practical and Structural Model Theory, England, Leeds (July 2022)
 - Model Theory and Applications, Italy, Cetraro (June 2022)
 - Cohomology of Varieties, Poland, Warsaw IMPAN (April 2022)
-<!-- K3 categories and hyperkähler moduli spaces, Warsaw/hybrid (September 2021) -->
+<!-- K3 categories and Hyperkähler moduli spaces, Warsaw/hybrid (September 2021) -->
 <!-- Summer school GAL, on-line (July 2020) -->
 - Summer school Algebra vincit Omnia, Poland, Pisary (September 2019)
 - Baby Horizons students' conference, Poland, Będlewo, IMPAN conference center (July 2019)

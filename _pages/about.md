@@ -20,4 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a PhD student at the University of Oxford, supervised by [Ehud Hrushovski](https://www.maths.ox.ac.uk/people/ehud.hrushovski). Before, I was a Master's student at the University of Warsaw, supervised by [Joachim Jelisiejew](https://www.mimuw.edu.pl/~jjelisiejew/) and a Bachelor's student at the University of Wrocław, under supervision of [Krzysztof Krupiński](https://www.math.uni.wroc.pl/~kkrup/).
 
-I am interested in interactions between Model Theory, Algebraic Geometry and Number Theory.
+<!-- I am interested in interactions between Model Theory, Algebraic Geometry and Number Theory.  -->
+The main objects of my studies are globally valued fields. These are fields equipped with an extra data called height functions. Such often arise naturally from Arakelov intersection thoery, or an adelic curve structure on a field. One can also induce height functions from certain measures on Berkovich analytifications over integers. I am interested in how one can use tools from continuous model theory to attack questions regarding heights. In particular, I enjoy topics like: non-Archimedean Monge–Ampère equations, Yuan's equidistribution, algebraic/Arakelov intersection theory, continuous logic.
+
+You can see my CV [here](\assets\pdf\cv_m_sz_2024_july.pdf).
