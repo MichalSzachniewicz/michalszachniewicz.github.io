@@ -15,7 +15,7 @@ nav_order: 6
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
 ## Planned conferences
-- Arithmetic, Geometry, Space and Time, a conference on the occasion of Minhyong Kim's 61st birthday (November 2024)
+- Arithmetic, Geometry, Space and Time, a conference on the occasion of Minhyong Kim's 61st birthday, Scotland, Edinburgh (November 2024)
 - Instructional workshop on rational points, Netherlands, Groningen (November 2024)
 - Geometry from the model theorist's point of view, a conference in honour of Boris Zilber's 75th birthday, England, Oxford (September 2024)
 
