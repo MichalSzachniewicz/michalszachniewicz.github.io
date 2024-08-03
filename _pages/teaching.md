@@ -15,10 +15,12 @@ nav_order: 6
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
 ## Planned conferences
-
-- Students' and Young Researchers' Conference: Non-Archimedean and Tropical Geometry, Germany, Regensburg (July 2024)
+- Arithmetic, Geometry, Space and Time, a conference on the occasion of Minhyong Kim's 61st birthday (November 2024)
+- Instructional workshop on rational points, Netherlands, Groningen (November 2024)
+- Geometry from the model theorist's point of view, a conference in honour of Boris Zilber's 75th birthday, England, Oxford (September 2024)
 
 ## Past confernces
+- Students' and Young Researchers' Conference: Non-Archimedean and Tropical Geometry, Germany, Regensburg (July 2024)
 - Flows and Variational Methods in Riemannian and Complex Geometry: Classical and Modern Methods, Canada, Montreal (June 2024)
 - Categorical aspects  of differential Galois theory meeting, England, London (May 2024)
 - South and East of England Model Theory Network SEEMOD meeting, England, Norwich (April 2024)
