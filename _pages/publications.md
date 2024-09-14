@@ -10,6 +10,7 @@ nav_order: 2
 #     - \usepackage{amssymb}
 ---
 
+1. **Globally valued fields: foundations**, with [Itaï Ben Yaacov](https://math.univ-lyon1.fr/~begnac/), Pablo Destic, [Ehud Hrushovski](https://www.maths.ox.ac.uk/people/ehud.hrushovski), [arXiv:2409.04570](https://arxiv.org/abs/2409.04570)
 1. **Hyperbolicity and model-complete fields**, with [Jinhe Ye](https://sites.google.com/view/vincentye/home?authuser=0), submitted, [arxiv:2403.15300](https://arxiv.org/abs/2403.15300)
 1. **Existential closedness of $$\overline{\mathbb{Q}}$$ as a globally valued field via Arakelov geometry**, submitted, [arXiv:2306.06275](https://arxiv.org/abs/2306.06275)
 1. **Non-reducedness of the Hilbert schemes of few points**, submitted, [arXiv:2109.11805](https://arxiv.org/abs/2109.11805)
