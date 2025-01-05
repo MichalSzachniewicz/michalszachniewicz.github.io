@@ -43,7 +43,7 @@ nav_order: 6
 <!-- Summer school GAL, on-line (July 2020) -->
 - Summer school Algebra vincit Omnia, Poland, Pisary (September 2019)
 - Baby Horizons students' conference, Poland, Będlewo, IMPAN conference center (July 2019)
-- Simons Semester - Geometric and Analytic Group Theory,Poland,  Warsaw (April - July 2019)
+- Simons Semester - Geometric and Analytic Group Theory, Poland,  Warsaw (April - July 2019)
 - Summer school on Aspherical Spaces, Germany, Island Frauenchiemsee (September 2018)
 - Summer school Per algebra ad astra, Poland, Pisary (September 2018)
 - Baby Horizons students' conference, Poland, Będlewo, IMPAN conference center (March 2018)
