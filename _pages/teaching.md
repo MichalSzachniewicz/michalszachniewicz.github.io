@@ -16,9 +16,10 @@ nav_order: 6
 
 ## Planned conferences
 - Model-theoretic methods in non-archimedean geometry, Germany, Münster (January 2025)
-- Instructional workshop on rational points, Netherlands, Groningen (November 2024)
+- Diophantine Days 2025 at the Westlake University, China, Hangzhou (March 2025)
 
 ## Past confernces
+- Instructional workshop on rational points, Netherlands, Groningen (November 2024)
 - Geometry from the model theorist's point of view, a conference in honour of Boris Zilber's 75th birthday, England, Oxford (September 2024)
 - Students' and Young Researchers' Conference: Non-Archimedean and Tropical Geometry, Germany, Regensburg (July 2024)
 - Flows and Variational Methods in Riemannian and Complex Geometry: Classical and Modern Methods, Canada, Montreal (June 2024)
