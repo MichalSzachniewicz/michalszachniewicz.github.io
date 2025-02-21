@@ -12,7 +12,7 @@ nav_order: 2
 
 1. **Continuity of heights in families and complete intersections in toric varieties**, with Pablo Destic and [Nuno Hultberg](https://sites.google.com/view/nuno-hultberg/home), submitted, [arXiv:2412.15988](https://arxiv.org/abs/2412.15988)
 1. **Globally valued fields: foundations**, with [Itaï Ben Yaacov](https://math.univ-lyon1.fr/~begnac/), Pablo Destic, [Ehud Hrushovski](https://www.maths.ox.ac.uk/people/ehud.hrushovski), submitted, [arXiv:2409.04570](https://arxiv.org/abs/2409.04570)
-1. **Hyperbolicity and model-complete fields**, with [Jinhe Ye](https://sites.google.com/view/vincentye/home?authuser=0), to appear in Int. Math. Res. Not., [arxiv:2403.15300](https://arxiv.org/abs/2403.15300)
+1. **Hyperbolicity and model-complete fields**, with [Jinhe Ye](https://sites.google.com/view/vincentye/home?authuser=0), in Int. Math. Res. Not. [link](https://academic.oup.com/imrn/article/2025/4/rnaf019/8006082?utm_source=etoc&utm_campaign=imrn&utm_medium=email), [arxiv:2403.15300](https://arxiv.org/abs/2403.15300)
 1. **Existential closedness of $$\overline{\mathbb{Q}}$$ as a globally valued field via Arakelov geometry**, submitted, [arXiv:2306.06275](https://arxiv.org/abs/2306.06275)
 1. **Non-reducedness of the Hilbert schemes of few points**, submitted, [arXiv:2109.11805](https://arxiv.org/abs/2109.11805)
 
