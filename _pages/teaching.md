@@ -18,9 +18,10 @@ nav_order: 6
 - Intercity Seminar on Arakelov Geometry 2025, Romania, Iasi (September 2025)
 - Recent Applications of Model Theory, Singapore (June 2025)
 - Istanbul Model Theory Days conference, Turkey, Istanbul (May 2025)
-- Diophantine Days 2025 at the Westlake University, China, Hangzhou (March 2025)
+- Arithmetic Geometry in Cabourg, France, Cabourg (May 2025)
 
 ## Past confernces
+- Diophantine Days 2025 at the Westlake University, China, Hangzhou (March 2025)
 - Model-theoretic methods in non-archimedean geometry, Germany, Münster (January 2025)
 - Instructional workshop on rational points, Netherlands, Groningen (November 2024)
 - Geometry from the model theorist's point of view, a conference in honour of Boris Zilber's 75th birthday, England, Oxford (September 2024)
