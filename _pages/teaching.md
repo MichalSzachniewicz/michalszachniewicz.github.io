@@ -14,11 +14,11 @@ nav_order: 6
 - [Kiran Kedlaya's conference page](https://mathweb.ucsd.edu/~kedlaya/cgi-bin/confs.cgi)
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
-## Planned conferences
+<!-- ## Planned conferences -->
 <!-- - Intercity Seminar on Arakelov Geometry 2025, Romania, Iasi (September 2025) -->
-- Recent Applications of Model Theory, Singapore (June 2025)
 
-## Past confernces
+## Attended confernces
+- Recent Applications of Model Theory, Singapore (June 2025)
 - Istanbul Model Theory Days conference, Turkey, Istanbul (May 2025)
 - Arithmetic Geometry in Cabourg, France, Cabourg (May 2025)
 - Diophantine Days 2025 at the Westlake University, China, Hangzhou (March 2025)
