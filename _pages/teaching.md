@@ -14,8 +14,11 @@ nav_order: 6
 - [Kiran Kedlaya's conference page](https://kskedlaya.org/cgi-bin/confs.cgi)
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
-<!-- ## Planned conferences -->
-<!-- - Intercity Seminar on Arakelov Geometry 2025, Romania, Iasi (September 2025) -->
+## Planned conferences
+ - International Congress of Mathematicians, Philadelphia, USA (July 2026)
+ - ASL North American Meeting 2026, Philadelphia, USA (July 2026)
+ - IAS Spring Special Year Workshop, IAS, Princeton, USA (March 2026)
+ - Model Theory and Arithmetic, Oberwolfach Workshop 2604, Germany (January 2026)
 
 ## Attended confernces
 - Model Theory and Interactions in the Yangtze Delta, Nanjing, China (November 2025)
