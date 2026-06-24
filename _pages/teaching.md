@@ -15,12 +15,13 @@ nav_order: 6
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
 ## Planned conferences
+ - Workshop on Arakelov and Diophantine Geometry, Providence, USA (August 2026)
  - International Congress of Mathematicians, Philadelphia, USA (July 2026)
  - ASL North American Meeting 2026, Philadelphia, USA (July 2026)
- - IAS Spring Special Year Workshop, IAS, Princeton, USA (March 2026)
- - Model Theory and Arithmetic, Oberwolfach Workshop 2604, Germany (January 2026)
 
 ## Attended confernces
+- IAS Spring Special Year Workshop, IAS, Princeton, USA (March 2026)
+- Model Theory and Arithmetic, Oberwolfach Workshop 2604, Germany (January 2026)
 - Model Theory and Interactions in the Yangtze Delta, Nanjing, China (November 2025)
 - Workshop on Special Cycles and Related Topics, IAS, Princeton, USA (October 2025)
 - Recent Applications of Model Theory, Singapore (June 2025)
