@@ -20,6 +20,7 @@ nav_order: 6
  - ASL North American Meeting 2026, Philadelphia, USA (July 2026)
 
 ## Attended confernces
+- Northeast Model Theory Day, Lehman College CUNY, New York, USA (April 2026)
 - IAS Spring Special Year Workshop, IAS, Princeton, USA (March 2026)
 - Model Theory and Arithmetic, Oberwolfach Workshop 2604, Germany (January 2026)
 - Model Theory and Interactions in the Yangtze Delta, Nanjing, China (November 2025)
