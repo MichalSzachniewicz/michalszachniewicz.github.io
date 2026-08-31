@@ -14,9 +14,9 @@ During the course-time we can venture into various model-theoretic continents in
 1. difference equations, pseudo-finite fields (simplicity);
 1. tame topology and real-algebraic geometry (o-minimality);
 1. valued fields, tame non-Archimedean geometry (NIP, generic stability).
-Depending on the interests of the audience we will choose one or multiple directions and from time to time we will supplement examples from the corresponding regions.
+Depending on the interests of the audience we will choose one or multiple directions and from time to time we will supplement the lectures with examples from the corresponding regions.
 
-Here are sample exercises from various places on the [map](https://www.forkinganddividing.com/):
+Here are sample exercises from the above topics:
 1. [Differential equations](/assets/pdf/differential_fields_sheet_0.pdf)
 1. [Pseudo-finite fields](/assets/pdf/pseudo_finite_fields_sheet_0.pdf)
 1. [o-minimality](/assets/pdf/o-minimality_sheet_0.pdf)
