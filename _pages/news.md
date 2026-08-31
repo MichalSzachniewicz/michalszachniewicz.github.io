@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /activities2/
-title: Activities2
+permalink: /activities/
+title: Activities
 #description: Conferences and schools attended
 nav: true
 nav_order: 3
