@@ -14,12 +14,10 @@ nav_order: 6
 - [Kiran Kedlaya's conference page](https://kskedlaya.org/cgi-bin/confs.cgi)
 - [Ravi Vakil's conference page](https://math.stanford.edu/~vakil/conferences.html)
 
-## Planned conferences
- - Workshop on Arakelov and Diophantine Geometry, Providence, USA (August 2026)
- - International Congress of Mathematicians, Philadelphia, USA (July 2026)
- - ASL North American Meeting 2026, Philadelphia, USA (July 2026)
-
 ## Attended confernces
+- Workshop on Arakelov and Diophantine Geometry, Providence, USA (August 2026)
+- International Congress of Mathematicians, Philadelphia, USA (July 2026)
+- ASL North American Meeting 2026, Philadelphia, USA (July 2026)
 - Northeast Model Theory Day, Lehman College CUNY, New York, USA (April 2026)
 - IAS Spring Special Year Workshop, IAS, Princeton, USA (March 2026)
 - Model Theory and Arithmetic, Oberwolfach Workshop 2604, Germany (January 2026)
