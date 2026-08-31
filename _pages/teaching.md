@@ -7,5 +7,21 @@ nav: true
 nav_order: 4
 ---
 
-## Useful links
+## Model theory, Harvard Math 146
+
+During the course-time we can venture into various model-theoretic continents including frameworks for:
+1. geometry of differential equations and differential Galois theory (stability);
+1. Difference equations, pseudo-finite fields (simplicity);
+1. tame topology and real-algebraic geometry (o-minimality);
+1. valued fields, tame non-Archimedean geometry (NIP, generic stability).
+Depending on the interests of the audience we will choose one or multiple directions and from time to time we will supplement examples from the corresponding regions.
+
+Here are sample exercises from various places on the [map](https://www.forkinganddividing.com/):
+1. [Differential equations](/assets/pdf/differential_fields_sheet_0.pdf)
+1. [Pseudo-finite fields](/assets/pdf/pseudo_finite_fields_sheet_0.pdf)
+1. [o-minimality](/assets/pdf/o-minimality_sheet_0.pdf)
+1. [Valued fields](/assets/pdf/valued_fields_sheet_0.pdf)
+
+
+
 
