@@ -11,7 +11,7 @@ nav_order: 4
 
 During the course-time we can venture into various model-theoretic continents including frameworks for:
 1. geometry of differential equations and differential Galois theory (stability);
-1. Difference equations, pseudo-finite fields (simplicity);
+1. difference equations, pseudo-finite fields (simplicity);
 1. tame topology and real-algebraic geometry (o-minimality);
 1. valued fields, tame non-Archimedean geometry (NIP, generic stability).
 Depending on the interests of the audience we will choose one or multiple directions and from time to time we will supplement examples from the corresponding regions.
