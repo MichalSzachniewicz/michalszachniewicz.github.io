@@ -24,7 +24,7 @@ Depending on the interests of the audience we will choose one or multiple direct
 Lecture notes (after the first lecture): [model theory](/assets/pdf/Lecture_notes_model_theory_2026_09_03.pdf)
 
 Exercise sheets:
-1. [sheet 1](/assets/pdf/model_theory_sheet_1.pdf) - due on 11th September 2026. Send it to amelrod@math.harvard.edu
+1. [sheet 1](/assets/pdf/model_theory_sheet_1.pdf) - due on 10th September 2026. Send it to amelrod@math.harvard.edu
 
 
 
