@@ -21,10 +21,11 @@ Depending on the interests of the audience we will choose one or multiple direct
 1. [o-minimality](/assets/pdf/o-minimality_sheet_0.pdf)
 1. [Valued fields](/assets/pdf/valued_fields_sheet_0.pdf)
 
-Lecture notes (after the first lecture): [model theory](/assets/pdf/Lecture_notes_model_theory_2026_09_03.pdf)
+Lecture notes (after the first lecture): [model theory](/assets/pdf/Lecture_notes_model_theory_2026_09_10.pdf)
 
 Exercise sheets:
 1. [sheet 1](/assets/pdf/model_theory_sheet_1.pdf) - due on 10th September 2026. Send it to amelrod@math.harvard.edu
+2. [sheet 2](/assets/pdf/model_theory_sheet_2.pdf) - due on 17th September 2026. Send it to Adam.
 
 
 
