@@ -9,6 +9,7 @@ nav_order: 2
 #     - \usepackage{amsmath}
 #     - \usepackage{amssymb}
 ---
+1. **Undecidability of algebraic numbers with logarithmic Weil heights**, with [Nuno Hultberg](https://sites.google.com/view/nuno-hultberg/home), [pdf](/assets/pdf/Undecidability_of_algebraic_numbers_as_a_discrete_GVF_2026_November.pdf)
 1. **A Game-Theoretic Unital Classification Theorem for $$C^*$$-Algebras**, with [Jennifer Pi](https://sites.google.com/view/jpi314/home), [Mira Tartarotti](https://mira-tartarotti.github.io/), [pdf](/assets/pdf/Games_on_C_star_Algebras_added_July_2026.pdf), [arXiv:2601.01735](https://arxiv.org/abs/2601.01735)
 1. **Limit heights of complete intersections in toric varieties**, with [Pablo Destic](https://pablodestic.github.io/), [Nuno Hultberg](https://sites.google.com/view/nuno-hultberg/home), submitted, [pdf](/assets/pdf/Limit_heights_of_complete_intersections_in_toric_varieties_added_02_Nov_2026.pdf), [arXiv:2412.15988](https://arxiv.org/abs/2412.15988)
 1. **Globally valued fields: foundations**, with [Itaï Ben Yaacov](https://math.univ-lyon1.fr/~begnac/), [Pablo Destic](https://pablodestic.github.io/), [Ehud Hrushovski](https://www.maths.ox.ac.uk/people/ehud.hrushovski), submitted, [pdf](/assets/pdf/GVF_foundations_added_17_Aug_2026.pdf), [arXiv:2409.04570](https://arxiv.org/abs/2409.04570)
