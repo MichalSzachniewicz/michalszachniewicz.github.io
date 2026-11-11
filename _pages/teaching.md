@@ -16,7 +16,7 @@ During the course-time we can venture into various model-theoretic continents in
 1. valued fields, tame non-Archimedean geometry (NIP, generic stability).
 
 Depending on the interests of the audience we will choose one or multiple directions and from time to time we will supplement the lectures with examples from the corresponding regions. Here are sample exercises from the above topics:
-1. [Differential equations](/assets/pdf/differential_fields_sheet_0.pdf)
+1. [Differential equations](/assets/pdf/differential_fields_sheet_9.pdf)
 1. [Pseudo-finite fields](/assets/pdf/pseudo_finite_fields_sheet_0.pdf)
 1. [o-minimality](/assets/pdf/o-minimality_sheet_0.pdf)
 1. [Valued fields](/assets/pdf/valued_fields_sheet_0.pdf)
