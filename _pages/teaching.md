@@ -21,7 +21,7 @@ Depending on the interests of the audience we will choose one or multiple direct
 1. [o-minimality](/assets/pdf/o-minimality_sheet_0.pdf)
 1. [Valued fields](/assets/pdf/valued_fields_sheet_0.pdf)
 
-Lecture notes (11 November 2026): [model theory](/assets/pdf/Lecture_notes_model_theory_2026_11_11.pdf)
+Lecture notes (18 November 2026): [model theory](/assets/pdf/Lecture_notes_model_theory_2026_11_18.pdf)
 
 Exercise sheets:
 1. [sheet 1](/assets/pdf/model_theory_sheet_1.pdf)
@@ -34,5 +34,6 @@ Exercise sheets:
 8. [sheet 8](/assets/pdf/model_theory_sheet_8.pdf)
 9. sheet 9 - the Differential equations exercise sheet above
 10. [sheet 10](/assets/pdf/model_theory_sheet_10.pdf)
+11. [sheet 11](/assets/pdf/model_theory_sheet_11.pdf)
 
 
