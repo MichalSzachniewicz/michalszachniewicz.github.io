@@ -23,4 +23,4 @@ I spend a lot of time thinking about globally valued fields. These are fields eq
 
 For a nice overview of the theory of globally valued fields, see the Bourbaki Seminar [talk](https://arxiv.org/abs/2506.20120) given by [Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml).
 
-You can see my CV [here](/assets/pdf/CV_Michal_Szachniewicz_July_2025.pdf).
+You can see my CV [here](/assets/pdf/CV_Michal_Szachniewicz_November_2026.pdf).
